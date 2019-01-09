@@ -7,6 +7,8 @@ Figuring out webhooks
 - Find a Webhook Receiver: https://webhook.site/
 - This site enables you to recieve data from your Github Webhook as a test
 - Supposedly the data sent by Github, or any other Webhook is some sort of Post
+- See first 2 messages transmitted from Github subscriptions (Selection was ALL)
+- Upload Pdf print of Output on Webhook.site
 
 
 ### Questions so far
